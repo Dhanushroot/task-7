@@ -38,8 +38,12 @@ To learn how to identify and remove potentially malicious or unnecessary browser
 ---
 
 ## 📸 Screenshots
-- `screenshots/before_removal.png`
-- `screenshots/after_removal.png`
+
+### Before Removing Suspicious Extensions
+![Before Removal](screenshots/before_removal.png)
+
+### After Removing Suspicious Extensions
+![After Removal](screenshots/after_removal.png)
 
 ---
 
